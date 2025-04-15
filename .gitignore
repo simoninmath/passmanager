@@ -1,0 +1,64 @@
+# Compilation files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.ncb
+*.suo
+*.user
+*.msi
+*.vspscc
+*.vsp
+*.vspx
+*.vsmdi
+*.testsettings
+*.csproj.user
+
+# NuGet dependencies files
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# IDE configuration files
+.vscode/
+.idea/
+*.sln.iml
+*.userosscache
+*.userprefs
+*.ridersession
+
+# Configuration files
+appsettings*.json
+secrets.json
+
+# Temporary and log files
+*.log
+*.tmp
+*.tlog
+
+# Archive and backup files
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+*.bak
+
+# Swap files
+*.swp
+*.swn
+*.swo
+
+# Sublime Text files
+*.sublime-*
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
